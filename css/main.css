@@ -1,0 +1,117 @@
+
+
+/* 
+object-fit: contain sẽ thay đổi kích thước của ảnh sao cho ảnh đó hiển thị đầy đủ trong khung */
+.imgHeader{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.container1{
+
+    /* height: 100px; */
+    /* background-color: #F6F1ED; */
+    background-color: #F6F1ED;
+}
+
+
+
+body{
+    background-color: #F6F1ED;
+    font-family: YACkoGNq-XY-0;
+    
+}
+
+.container2{
+    background-color: #FCF8F5;
+}
+
+.container3{
+    background-color: #F6F1ED;
+}
+
+.img2{
+    width: 250px;
+    height: 300px;
+    
+}
+
+.img3{
+    width: 350px;
+    height: 300px;
+}
+
+.imgFooter{
+
+    width: 1550px;
+    height: 900px;
+}
+
+.footer{
+    background-color: black;
+    
+    
+}
+
+.dk, .canva{
+    color: white;
+    background-color: black;
+    border: black;
+    
+}
+
+.row{
+
+    padding: 1%;
+}
+
+.content{
+    width: 240px;
+}
+
+
+.chair{
+    height: 500px;
+    margin: 1px 25px 100px 75px;
+}
+
+.col-sm-3{
+    margin-left: -1%;
+}
+
+/* #row-footer{
+    height: 100px;
+} */
+
+#order{
+    padding: 10%;
+}
+
+p{
+    color: 	#A9A9A9;
+}
+
+.dk{
+    position: relative;
+    left: 50px;
+}
+
+.canva{
+   position: relative;
+   left: 500px;
+}
+
+.canva:hover{
+    background-color: #1DA1D3;
+    border-radius: 1em;
+    
+}
+
+.vproduct{
+    background-color: #DD9D4C;
+    color: white;
+    border: none;
+    padding: 1%;
+}
